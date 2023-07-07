@@ -1,0 +1,17 @@
+﻿_id,Kode,Sub Elemen,Definisi Operasional,Satuan,Tahun 2017,Tahun 2018,Tahun 2019,Tahun 2020,Tahun 2021,Sumber Data
+1,,"Jumlah Guru, Dosen, dan Kepala Sekolah","","","","","","","",""
+2,1,Jumlah Guru Taman Kanak- Kanak (TK),Jumlah tenaga pengajar pada jenjang Taman Kanak-Kanak (TK) di wilayah Kabupaten Sleman pada tahun berkenaan.,Orang,2212.0,2203.0,2721.0,2215.0,1541.0,Dinas Pendidikan
+3,1.1,Jumlah Guru TK Negeri,"",Orang,46.0,44.0,48.0,41.0,36.0,Dinas Pendidikan
+4,1.2,Jumlah Guru TK Swasta,"",Orang,2166.0,2159.0,2673.0,2174.0,1505.0,Dinas Pendidikan
+5,3,Jumlah Guru Sekolah Dasar (SD),Jumlah tenaga pengajar pada jenjang SD/MI Sederajat di wilayah Kabupaten Sleman pada tahun berkenaan.,"",6181.0,6259.0,6420.0,5624.0,5080.0,Dinas Pendidikan
+6,3.1,Jumlah Guru SDN Negeri,"",Orang,3841.0,3748.0,3969.0,3553.0,3447.0,Dinas Pendidikan
+7,3.2,Jumlah Guru SDN Swasta,"",Orang,2340.0,2511.0,2451.0,2071.0,1633.0,Dinas Pendidikan
+8,3.3,Pemenuhan kebutuhan guru SD,"",%,-,-,-,-,-,Dinas Pendidikan
+9,3.4,Pemenuhan Kualifikasi guru SD,"",%,-,91.34,91.34,92.78,99.11,Dinas Pendidikan
+10,4,Jumlah Guru Sekolah Lanjutan Tingkat Pertama (SMP),Jumlah tenaga pengajar pada jenjang SMP/MTS/sederajat di wilayah Kabupaten Sleman pada tahun berkenaan.,"",3366.0,3492.0,3725.0,3316.0,2533.0,Dinas Pendidikan
+11,4.1,Jumlah Guru SMP Negeri,"",Orang,1764.0,1777.0,1945.0,1728.0,1428.0,Dinas Pendidikan
+12,4.2,Jumlah Guru SMP Swasta,"",Orang,1602.0,1715.0,1780.0,1558.0,1105.0,Dinas Pendidikan
+13,4.3,Pemenuhan Jumlah guru SMP yang diperlukan,"",%,-,-,-,-,-,Dinas Pendidikan
+14,4.4,Kualifikasi guru SMP yang sesuai kompetensi yang ditetapkan secara nasional,"",%,-,93.56,93.56,92.6,99.13,Dinas Pendidikan
+15,8,Jumlah Pendidik LKP,"",Orang,-,234.0,234.0,234.0,122.0,Dinas Pendidikan
+16,9,Jumlah Guru Tesertifikasi,"",Orang,-,-,-,-,4426.0,Dinas Pendidikan
